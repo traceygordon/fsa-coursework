@@ -1,4 +1,5 @@
 # 2409-GHP-ET-WEB-PT
 This is the cohort repo for the 2409 Grace Hopper cohort.
 "To improve is to change"
-" There is noting permanent, except for change"
+" There is nothing permanent, except for change"
+ge
