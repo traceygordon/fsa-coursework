@@ -30,16 +30,30 @@ These are important links that you'll need throughout the course:
 - ⛄ Winter Break:
   Tues, 12/24/24 - Tues, 12/31/24
 - 🎓 Graduation/End Date: March 27th, 2025
+
+<h3>📅 Open Support Hours Schedule</h3>
+
+[Zoom Room](https://fullstackacademy.zoom.us/j/3401123996?pwd=b1UwZmJXR2VRVWdqY0FXb0V3WkIzZz09)
+
+→ Monday 3pm- 11pm ET <br>
+→ Tuesday 3pm-6pm ET<br>
+→ Wednesday 3pm-11pm ET <br>
+→ Thursday 3pm-6pm ET <br>
+→ Friday 3pm-6pm ET
 </details>
+
+
+
 
 ## 🌱 Unit 1: Frontend Foundations
 
 | Block                        |              Lecture               | Slides | Demo | Solution |
 | ---------------------------- | :--------------------------------: | :----: | :--: | :------: |
 | 01: Orientation              | [📺](https://youtu.be/jYUljk-SWt0) |   -    |  -   |    -     |
-| 02: My First Website         | [📺](https://youtu.be/tiO2Q9_Pqp4) |   -    |  -   |    -     |
+| 02: My First Website         | [📺](https://youtu.be/tiO2Q9_Pqp4) |[:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-2-my-first-website?module_item_id=353860)   |  -   |    -     |
 | 03: Command Line Interface   | [📺](https://youtu.be/0KA3sVtf7tQ) |   -    |  -   |    -     |
-| 04: Development Environments |                 -                  |   -    |  -   |    -     |
+| 04: Development Environments | [📺](https://youtu.be/oN-FyxhYZAI) |   -    |  -   |    -     |
+| 05: Intro to Front End Dev   |                                    |   -    |  -   |    -     |
 
 <details>
 <summary><h3>Extra Resources</h3></summary>
