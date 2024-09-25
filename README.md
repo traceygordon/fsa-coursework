@@ -51,10 +51,9 @@ These are important links that you'll need throughout the course:
 | ---------------------------- | :--------------------------------: | :----: | :--: | :------: |
 | 01: Orientation              | [📺](https://youtu.be/jYUljk-SWt0) |   -    |  -   |    -     |
 | 02: My First Website         | [📺](https://youtu.be/tiO2Q9_Pqp4) |[:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-2-my-first-website?module_item_id=353860)   |  -   |    -     |
-| 03: Command Line Interface   | [📺](https://youtu.be/0KA3sVtf7tQ) |   -    |  -   |    -     |
-| 04: Development Environments | [📺](https://youtu.be/oN-FyxhYZAI) |   -    |  -   |    -     |
-| 05: Intro to Front End Dev   |                                    |   -    |  -   |    -     |
-
+| 03: Command Line Interface   | [📺](https://youtu.be/0KA3sVtf7tQ) |[:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-3-command-line-interface?module_item_id=353868)  |  -   |    -     |
+| 04: Development Environments | [📺](https://youtu.be/oN-FyxhYZAI) |[:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-4-development-environments?module_item_id=353876)   |  -   |    -     |
+| 05: Intro to Front End Dev   | [📺](https://youtu.be/cczD2zhlaXM) |[:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-5-introduction-to-frontend-development?module_item_id=353886)    |  -   |    -     |
 <details>
 <summary><h3>Extra Resources</h3></summary>
 
