@@ -40,22 +40,23 @@ These are important links that you'll need throughout the course:
 → Wednesday 3pm-11pm ET <br>
 → Thursday 3pm-6pm ET <br>
 → Friday 3pm-6pm ET
+
 </details>
-
-
-
 
 ## 🌱 Unit 1: Frontend Foundations
 
-| Block                        |              Lecture               | Slides | Demo | Solution |
-| ---------------------------- | :--------------------------------: | :----: | :--: | :------: |
-| 01: Orientation              | [📺](https://youtu.be/jYUljk-SWt0) |   -    |  -   |    -     |
-| 02: My First Website         | [📺](https://youtu.be/tiO2Q9_Pqp4) |[:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-2-my-first-website?module_item_id=353860)   |  -   |    -     |
-| 03: Command Line Interface   | [📺](https://youtu.be/0KA3sVtf7tQ) |[:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-3-command-line-interface?module_item_id=353868)  |  -   |    -     |
-| 04: Development Environments | [📺](https://youtu.be/oN-FyxhYZAI) |[:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-4-development-environments?module_item_id=353876)   |  -   |    -     |
-| 05: Intro to Front End Dev   | [📺](https://youtu.be/cczD2zhlaXM) |[:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-5-introduction-to-frontend-development?module_item_id=353886)    |  -   |    -     |
+| Block                        |              Lecture               |                                                                Slides                                                                | Demo | Solution |
+| ---------------------------- | :--------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--: | :------: |
+| 01: Orientation              | [📺](https://youtu.be/jYUljk-SWt0) |                                                                  -                                                                   |  -   |    -     |
+| 02: My First Website         | [📺](https://youtu.be/tiO2Q9_Pqp4) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-2-my-first-website?module_item_id=353860)           |  -   |    -     |
+| 03: Command Line Interface   | [📺](https://youtu.be/0KA3sVtf7tQ) |        [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-3-command-line-interface?module_item_id=353868)        |  -   |    -     |
+| 04: Development Environments | [📺](https://youtu.be/oN-FyxhYZAI) |       [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-4-development-environments?module_item_id=353876)       |  -   |    -     |
+| 05: Intro to Front End Dev   | [📺](https://youtu.be/cczD2zhlaXM) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-5-introduction-to-frontend-development?module_item_id=353886) |  -   |    -     |
+
 <details>
 <summary><h3>Extra Resources</h3></summary>
+
+- [Emmet Documentation: Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
 <strong>Git & Github</strong>
 
@@ -98,5 +99,30 @@ These are important links that you'll need throughout the course:
 - git remote add origin
 - git branch -M main
 - git push -u origin main
+
+</details>
+
+<details>
+<summary>Creating HTML w/ Emmet Abbreviation (<code>!</code>)</summary>
+<br>
+
+<strong>In VSCode:</strong> `SHIFT`+ `1`, then `ENTER`
+<br>
+
+Will result in a basic HTML doc:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- HTML Body -->
+  </body>
+</html>
+```
 
 </details>
