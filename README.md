@@ -45,20 +45,46 @@ These are important links that you'll need throughout the course:
 
 ## 🌱 Unit 1: Frontend Foundations
 
-| Block                        |              Lecture               |                                                                Slides                                                                | Demo | Solution |
-| ---------------------------- | :--------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--: | :------: |
-| 01: Orientation              | [📺](https://youtu.be/jYUljk-SWt0) |                                                                  -                                                                   |  -   |    -     |
-| 02: My First Website         | [📺](https://youtu.be/tiO2Q9_Pqp4) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-2-my-first-website?module_item_id=353860)           |  -   |    -     |
-| 03: Command Line Interface   | [📺](https://youtu.be/0KA3sVtf7tQ) |        [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-3-command-line-interface?module_item_id=353868)        |  -   |    -     |
-| 04: Development Environments | [📺](https://youtu.be/oN-FyxhYZAI) |       [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-4-development-environments?module_item_id=353876)       |  -   |    -     |
-| 05: Intro to Front End Dev   | [📺](https://youtu.be/cczD2zhlaXM) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-5-introduction-to-frontend-development?module_item_id=353886) |  -   |    -     |
+| Block                        |              Lecture               |                                                                Slides                                                                |                    Demo                    | Solution |
+| ---------------------------- | :--------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :------: |
+| 01: Orientation              | [📺](https://youtu.be/jYUljk-SWt0) |                                                                  -                                                                   |                     -                      |    -     |
+| 02: My First Website         | [📺](https://youtu.be/tiO2Q9_Pqp4) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-2-my-first-website?module_item_id=353860)           |                     -                      |    -     |
+| 03: Command Line Interface   | [📺](https://youtu.be/0KA3sVtf7tQ) |        [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-3-command-line-interface?module_item_id=353868)        |                     -                      |    -     |
+| 04: Development Environments | [📺](https://youtu.be/oN-FyxhYZAI) |       [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-4-development-environments?module_item_id=353876)       |                     -                      |    -     |
+| 05: Intro to Front End Dev   | [📺](https://youtu.be/cczD2zhlaXM) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-5-introduction-to-frontend-development?module_item_id=353886) |       [](./block05/guided-practice/)       |    -     |
+| 06: More Front End Dev       | [📺](https://youtu.be/VV_IYt0AoNI) |      [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-6-more-frontend-development?module_item_id=353892)       | [💻](./block05/guided-practice/index.html) |    -     |
+
+## 📚 Extra Resources
+
+<details open>
+<summary><strong>HTML</strong></summary>
+
+- [HTML Elements List](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Attributes List](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+- [⭐ Glossary and Cheatsheet for HTML](https://www.codecademy.com/article/glossary-html)
+</details>
+
+<details open>
+<summary><strong>CSS</strong></summary>
+
+- [MDN: The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+- [CSS Selectors List](https://www.w3schools.com/cssref/css_selectors.php)
+- ⭐ CSS-Tricks Complete Guides:
+  - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - [Table Element](https://css-tricks.com/complete-guide-table-element/)
+  - [How to Link CSS to HTML](https://www.freecodecamp.org/news/how-to-link-css-to-html/)
+- [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
+- [CSS block vs. inline vs. inline-block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
+- 🎮✨ Interactive games to learn & practice CSS:
+  - ⭐ [CSS Diner](https://flukeout.github.io/) - CSS Selectors
+  - ⭐ [Flexbox Froggy](https://flexboxfroggy.com/) - Flexbox
+  - [Grid Garden](https://cssgridgarden.com/) - Grid
+  - [CSS Battle](https://cssbattle.dev/) - Replicate target image using CSS
+  </details>
 
 <details>
-<summary><h3>Extra Resources</h3></summary>
-
-- [Emmet Documentation: Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
-
-<strong>Git & Github</strong>
+<summary><strong>Git & Github</strong></summary>
 
 - [Github Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Github: About Git](https://docs.github.com/en/get-started/using-git/about-git)
@@ -66,16 +92,18 @@ These are important links that you'll need throughout the course:
 - [Pro Git Book (free)](https://git-scm.com/book/en/v2)
 - [Atlassian: Learn Git Tutorials](https://www.atlassian.com/git/tutorials)
 - [FreeCodeCamp: How to Delete a Git Branch](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
+</details>
 
-<strong>VS Code</strong>
+<details>
+<summary><strong>VS Code</strong></summary>
 
+- [⭐ Emmet Documentation: Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 - [VS Code Tips & Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 - [VS Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference)
 - Keyboard Shortcuts
   - [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
   - [MacOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 - [Snappify: 21 Best VSCode Extensions Every Dev Should Know (2024)](https://snappify.com/blog/best-vscode-extensions)
-
 </details>
 
 ## ⚡ Quick Starts
