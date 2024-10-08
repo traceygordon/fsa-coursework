@@ -63,6 +63,7 @@ These are important links that you'll need throughout the course:
 - [HTML Elements List](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Attributes List](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 - [⭐ Glossary and Cheatsheet for HTML](https://www.codecademy.com/article/glossary-html)
+- [Semantic HTML Guide](https://www.semrush.com/blog/semantic-html5-guide/)
 </details>
 
 <details open>
