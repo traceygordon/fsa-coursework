@@ -75,7 +75,7 @@ These are important links that you'll need throughout the course:
   - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
   - [Table Element](https://css-tricks.com/complete-guide-table-element/)
-  - [How to Link CSS to HTML](https://www.freecodecamp.org/news/how-to-link-css-to-html/)
+- [How to Link CSS to HTML](https://www.freecodecamp.org/news/how-to-link-css-to-html/)
 - [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
 - [CSS block vs. inline vs. inline-block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
 - 🎮✨ Interactive games to learn & practice CSS:
@@ -85,15 +85,21 @@ These are important links that you'll need throughout the course:
   - [CSS Battle](https://cssbattle.dev/) - Replicate target image using CSS
   </details>
 
-<details>
+<details open>
 <summary><strong>Git & Github</strong></summary>
 
-- [Github Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
+- ⭐ [Github Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Github: About Git](https://docs.github.com/en/get-started/using-git/about-git)
 - [Github: Renaming the default branch from `master`](https://github.com/github/renaming)
 - [Pro Git Book (free)](https://git-scm.com/book/en/v2)
 - [Atlassian: Learn Git Tutorials](https://www.atlassian.com/git/tutorials)
 - [FreeCodeCamp: How to Delete a Git Branch](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
+- On the `README.md` file:
+  - [Github: About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+  - A comprehensive & simpe [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+  - [Basic Mardown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- ⭐ [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+- 🎮✨ [Learn Git Branching](https://learngitbranching.js.org/)
 </details>
 
 <details>
