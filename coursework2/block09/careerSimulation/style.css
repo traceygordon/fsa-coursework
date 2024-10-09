@@ -12,6 +12,7 @@ header {
 
     color: rgb(209, 220, 220);
     text-align: center;
+    background-color: rgb(114, 11, 68);
 }
 
 h2 {
@@ -21,6 +22,7 @@ h2 {
     padding: 15px;
     margin: 10px;
     border: 1px silver solid;
+    background-color: rgb(114, 11, 68);
 
 }
 
@@ -94,12 +96,11 @@ footer {
 
 .center {
 
-
-
     padding: 15px;
     margin: 10px;
     border: 1px silver solid;
     background-color: rgb(58, 4, 34);
+    
 }
 
 p {
@@ -114,4 +115,10 @@ p {
     padding: 15px;
     margin: 10px;
     border: 1px silver solid;
+}
+
+table{
+
+    width: 100%;
+
 }
