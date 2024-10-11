@@ -1,0 +1,11 @@
+.gridblock {
+
+    display: grid;
+    grid-template-areas: 'username username username username'
+
+        'password password number'
+        'checkbox checkbox checkbox checkbox';
+    gap: 5px;
+    padding: 2px;
+
+}
