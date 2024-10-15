@@ -45,15 +45,18 @@ These are important links that you'll need throughout the course:
 
 ## 🌱 Unit 1: Frontend Foundations
 
-| Block                        | Date |              Lecture               |                                                                Slides                                                                |                    Demo                    |                   Solution                   |
-| ---------------------------- | :--: | :--------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :------------------------------------------: |
-| 01: Orientation              | 9/10 | [📺](https://youtu.be/jYUljk-SWt0) |                                                                  -                                                                   |                     -                      |                      -                       |
-| 02: My First Website         | 9/12 | [📺](https://youtu.be/tiO2Q9_Pqp4) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-2-my-first-website?module_item_id=353860)           |                     -                      |                      -                       |
-| 03: Command Line Interface   | 9/17 | [📺](https://youtu.be/0KA3sVtf7tQ) |        [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-3-command-line-interface?module_item_id=353868)        |                     -                      |                      -                       |
-| 04: Development Environments | 9/19 | [📺](https://youtu.be/oN-FyxhYZAI) |       [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-4-development-environments?module_item_id=353876)       |                     -                      |                      -                       |
-| 05: Intro to Front End Dev   | 9/24 | [📺](https://youtu.be/cczD2zhlaXM) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-5-introduction-to-frontend-development?module_item_id=353886) | [💻](./block05/guided-practice/index.html) | [👾](./block05/workshop-solution/index.html) |
-| 06: More Front End Dev       | 9/26 | [📺](https://youtu.be/VV_IYt0AoNI) |      [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-6-more-frontend-development?module_item_id=353892)       |                     -                      | [👾](./block06/workshop-solution/index.html) |
-| 07: JavaScript Fundamentals  | 10/1 | [📺](https://youtu.be/A5vEDBpXv4o) |       [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-7-javascript-fundamentals?module_item_id=353898)        |      [💻](./block07/workshop/code.js)      | [👾](./block07/workshop-solution/script.js)  |
+| Block                         | Date  |              Lecture               |                                                                Slides                                                                |                    Demo                    |                   Solution                   |
+| ----------------------------- | :---: | :--------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :------------------------------------------: |
+| 01: Orientation               | 9/10  | [📺](https://youtu.be/jYUljk-SWt0) |                                                                  -                                                                   |                     -                      |                      -                       |
+| 02: My First Website          | 9/12  | [📺](https://youtu.be/tiO2Q9_Pqp4) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-2-my-first-website?module_item_id=353860)           |                     -                      |                      -                       |
+| 03: Command Line Interface    | 9/17  | [📺](https://youtu.be/0KA3sVtf7tQ) |        [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-3-command-line-interface?module_item_id=353868)        |                     -                      |                      -                       |
+| 04: Development Environments  | 9/19  | [📺](https://youtu.be/oN-FyxhYZAI) |       [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-4-development-environments?module_item_id=353876)       |                     -                      |                      -                       |
+| 05: Intro to Front End Dev    | 9/24  | [📺](https://youtu.be/cczD2zhlaXM) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-5-introduction-to-frontend-development?module_item_id=353886) | [💻](./block05/guided-practice/index.html) | [👾](./block05/workshop-solution/index.html) |
+| 06: More Front End Dev        | 9/26  | [📺](https://youtu.be/VV_IYt0AoNI) |      [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-6-more-frontend-development?module_item_id=353892)       |                     -                      | [👾](./block06/workshop-solution/index.html) |
+| 07: JavaScript Fundamentals   | 10/1  | [📺](https://youtu.be/A5vEDBpXv4o) |       [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-7-javascript-fundamentals?module_item_id=353898)        |      [💻](./block07/workshop/code.js)      | [👾](./block07/workshop-solution/script.js)  |
+| 08: Dev Team Dynamics         | 10/3  | [📺](https://youtu.be/BroymCHV-ek) |      [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-8-development-team-dynamics?module_item_id=353911)       |                     -                      |                      -                       |
+| 09: CS Personal Website Pt. 1 | 10/8  |                 -                  |                 [:teacher:](https://fullstack.instructure.com/courses/1122/assignments/59986?module_item_id=353917)                  |                     -                      |                      -                       |
+| 10: Expanded CSS & HTML       | 10/10 | [📺](https://youtu.be/u8h_AryiVMk) |        [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-10-expanded-css-and-html?module_item_id=353921)        |                     -                      |                      -                       |
 
 ## 📚 Extra Resources
 
@@ -81,8 +84,11 @@ These are important links that you'll need throughout the course:
 - 🎮✨ Interactive games to learn & practice CSS:
   - ⭐ [CSS Diner](https://flukeout.github.io/) - CSS Selectors
   - ⭐ [Flexbox Froggy](https://flexboxfroggy.com/) - Flexbox
+  - [Flexbox Defense](http://www.flexboxdefense.com/) - Flexbox
+  - [Flex Zombies](https://mastery.games/flexboxzombies/) - Flexbox
   - [Grid Garden](https://cssgridgarden.com/) - Grid
   - [CSS Battle](https://cssbattle.dev/) - Replicate target image using CSS
+- ⭐ [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
   </details>
 
 <details open>
