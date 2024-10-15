@@ -1,3 +1,16 @@
+@media (max-width: 669px){
+
+    h2{
+        font-size: 1.5rem;
+    }
+
+    .navbar, h3, form{
+
+        font-size: 0.8rem;
+    }
+}
+    
+
 .navbar {
 
     color: rgb(232, 22, 186);
@@ -21,6 +34,7 @@ h3 {
     text-align: center;
     color: aliceblue;
     font-family: sans-serif;
+
 }
 
 p {
@@ -36,6 +50,7 @@ form {
     justify-content: space-between;
     color: aliceblue;
     font-family: sans-serif;
+
 
 
 }
@@ -61,8 +76,6 @@ body {
     gap: 5px;
     padding: 5px;
     border: medium solid rgb(232, 22, 186);
-    /* margin-top: 15%;
-    margin-bottom: 15%; */
     align-items: center;
 }
 
