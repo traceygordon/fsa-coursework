@@ -1,7 +1,7 @@
 
 body {
 
-    background-color: rgb(149, 96, 122);
+    background-color: rgb(149, 96, 122) !important; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: oblique;
 
