@@ -1,3 +1,4 @@
+
 body {
 
     background-color: rgb(149, 96, 122);
@@ -121,4 +122,11 @@ table{
 
     width: 100%;
 
+}
+
+form{
+
+    display: grid
+   
+  
 }
