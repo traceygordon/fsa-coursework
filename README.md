@@ -62,14 +62,27 @@ These are important links that you'll need throughout the course:
 
 ## 🌿 Unit 2: Frontend Development
 
-| Block                          | Date  |              Lecture               |                                                                 Slides                                                                 | Demo |                  Solution                   |
-| ------------------------------ | :---: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--: | :-----------------------------------------: |
+| Block                          | Date  |              Lecture               |                                                                 Slides                                                                 | Demo |                  Solution                  |
+| ------------------------------ | :---: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--: | :----------------------------------------: |
 | 13: Conditionals & Comparisons | 10/22 | [📺](https://youtu.be/uG_oWMgDNI0) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-13-statements-conditionals-and-functions?module_item_id=353938) |  -   | [👾](./block13/workshop-solution/index.js) |
-| 14: Arrays & Loops             | 10/24 | [📺](https://youtu.be/fzjfYlvfYUw) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-14-loops-and-arrays?module_item_id=353946)            |  -   |                      -                      |
+| 14: Arrays & Loops             | 10/24 | [📺](https://youtu.be/fzjfYlvfYUw) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-14-loops-and-arrays?module_item_id=353946)            |  -   |                     -                      |
 
 ## 📚 Extra Resources
 
 <details open>
+<summary><strong>JS</strong></summary>
+
+- [JavaScript & the DOM](https://www.codecademy.com/learn/fscp-building-interactive-websites-with-javascript/modules/fecp-javascript-and-the-dom/cheatsheet)
+- [Intro to JS Runtime Environments](https://www.codecademy.com/article/introduction-to-javascript-runtime-environments)
+- _Learning Exercises_
+  - ⭐ [Exercism JS](https://exercism.org/tracks/javascript)
+- _Cheatsheets_
+  - ⭐ [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+  - [JS Array Cheatsheet](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42)
+
+</details>
+
+<details close>
 <summary><strong>HTML</strong></summary>
 
 - [HTML Elements List](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
@@ -78,7 +91,7 @@ These are important links that you'll need throughout the course:
 - [Semantic HTML Guide](https://www.semrush.com/blog/semantic-html5-guide/)
 </details>
 
-<details open>
+<details close>
 <summary><strong>CSS</strong></summary>
 
 - [MDN: The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
@@ -100,7 +113,7 @@ These are important links that you'll need throughout the course:
 - ⭐ [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
   </details>
 
-<details open>
+<details close>
 <summary><strong>Git & Github</strong></summary>
 
 - ⭐ [Github Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
