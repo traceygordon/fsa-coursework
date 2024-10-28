@@ -58,7 +58,14 @@ These are important links that you'll need throughout the course:
 | 09: CS Personal Website Pt. 1 | 10/8  |                 -                  |                 [:teacher:](https://fullstack.instructure.com/courses/1122/assignments/59986?module_item_id=353917)                  |                                 -                                 | [👾](./block09_personal_website_pt1/workshop-solution/index.html) |
 | 10: Expanded CSS & HTML       | 10/10 | [📺](https://youtu.be/u8h_AryiVMk) |        [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-10-expanded-css-and-html?module_item_id=353921)        |                                 -                                 |           [👾](./block10/workshop-solution/index.html)            |
 | 11: Working in a Dev Team     | 10/15 |                 -                  |    [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-11-working-in-a-development-team?module_item_id=353927)    |                                 -                                 |                                 -                                 |
-| 12: CS Pt. 2 + Unit 1 Wrap Up | 10/17 | [📺](https://youtu.be/0TZy9mkFdPY) |                 [:teacher:](https://fullstack.instructure.com/courses/1122/assignments/59785?module_item_id=353933)                  | [💻](https://github.com/lizhopp/my-personal-website/tree/partTwo) |                                 -                                 |
+| 12: CS Pt. 2 + Unit 1 Wrap Up | 10/17 | [📺](https://youtu.be/0TZy9mkFdPY) |                 [:teacher:](https://fullstack.instructure.com/courses/1122/assignments/59785?module_item_id=353933)                  | [💻](https://github.com/lizhopp/my-personal-website/tree/partTwo) |           [👾](./block12/workshop-solution/index.html)            |
+
+## 🌿 Unit 2: Frontend Development
+
+| Block                          | Date  |              Lecture               |                                                                 Slides                                                                 | Demo |                  Solution                   |
+| ------------------------------ | :---: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--: | :-----------------------------------------: |
+| 13: Conditionals & Comparisons | 10/22 | [📺](https://youtu.be/uG_oWMgDNI0) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-13-statements-conditionals-and-functions?module_item_id=353938) |  -   | [👾](./block13/workshop-solution/index.js) |
+| 14: Arrays & Loops             | 10/24 | [📺](https://youtu.be/fzjfYlvfYUw) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-14-loops-and-arrays?module_item_id=353946)            |  -   |                      -                      |
 
 ## 📚 Extra Resources
 
