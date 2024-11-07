@@ -1,10 +1,12 @@
 // This code snippet is used to update the user's order for Donuts.
 // The order is represented by a JavaScript Object with several properties.
-// Can you implement 3 functions so that when the User selects the
-// Add button, the quantity increases by 1 and
-// The remove button, the quantity decreases by one
-// The delete button, the quantity is reset to 0
+// Can you implement the functions so that when the User selects the
+// + button, the quantity increases by 1 and
+// The - button, the quantity decreases by one
+// The reset button, the quantity is reset to 0
 //Also, give the Donut Shop the option to remove a donut type from inventory when they sell out for the day
+//This happens when they click the 'Remove from Menu' button
+
 
 //represents a customer's donut order
 const donutOrder = {
@@ -13,23 +15,28 @@ const donutOrder = {
   bearClaw: 0,
   eclair: 0,
 };
-//adds one to the donut types quantity
+
+//executed when the user clicks the '+' button
 function addOne(donutType) {
 
 }
-//removes one from the donut type's quantity
+//executed when the user clicks the '-' button
 function removeOne(donutType) {
 
 }
-//sets donut type's quantity to 0
-function removeFromOrder(donutType) {
+//executed when the user clicks the 'Reset' button
+function reset(donutType) {
 
 }
 
-//removes from the menu completely
+//executed when the user clicks the 'Remove From Menu' button
 function removeFromMenu(donutType) {
 
 }
+
+
+
+
 
 
 
@@ -63,9 +70,9 @@ function render() {
       };
       li.appendChild(removeButton);
       let deleteButton = document.createElement("button");
-      deleteButton.textContent = "Remove from Order";
+      deleteButton.textContent = "Reset";
       deleteButton.onclick = function () {
-        removeFromOrder(`${donutType}`);
+        reset(`${donutType}`);
         render();
       };
       li.appendChild(deleteButton);
