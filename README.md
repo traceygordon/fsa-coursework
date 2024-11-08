@@ -67,7 +67,8 @@ These are important links that you'll need throughout the course:
 | 13: Conditionals & Comparisons | 10/22 | [📺](https://youtu.be/uG_oWMgDNI0) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-13-statements-conditionals-and-functions?module_item_id=353938) |               -                | [👾](./block13/workshop-solution/index.js) |
 | 14: Arrays & Loops             | 10/24 | [📺](https://youtu.be/fzjfYlvfYUw) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-14-loops-and-arrays?module_item_id=353946)            | [💻](./block14/demo/script.js) | [👾](./block14/workshop-solution/index.js) |
 | 14: Arrays & Loops Cont.       | 10/29 | [📺](https://youtu.be/BSzVT8l2KV4) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-14-loops-and-arrays?module_item_id=353946)            |               -                |                     -                      |
-
+| 15: Objects and Methods       | 11/05 | [📺](https://youtu.be/8WQDRwz0bXs) |           [:teacher:](https://fullstack.instructure.com/courses/1122/modules/items/353952)            |               -                | [👾](./block15/workshop-solution/index.js)   |
+| 16: Array Methods       | 11/07 | [📺](https://youtu.be/KMBfLZzVNog) |           [:teacher:](https://fullstack.instructure.com/courses/1122/modules/items/353959)            |               -                |                     -                      |
 ## 📚 Extra Resources
 
 <details open>
