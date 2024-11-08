@@ -18,20 +18,22 @@ const donutOrder = {
 
 //executed when the user clicks the '+' button
 function addOne(donutType) {
-
+  donutOrder[donutType]++;
 }
 //executed when the user clicks the '-' button
 function removeOne(donutType) {
-
+  if(donutOrder[donutType] > 0){
+    donutOrder[donutType]--;
+  }
 }
 //executed when the user clicks the 'Reset' button
 function reset(donutType) {
-
+  donutOrder[donutType] = 0;
 }
 
 //executed when the user clicks the 'Remove From Menu' button
 function removeFromMenu(donutType) {
-
+  delete donutOrder[donutType];
 }
 
 
