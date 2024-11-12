@@ -45,6 +45,9 @@ These are important links that you'll need throughout the course:
 
 ## 🌱 Unit 1: Frontend Foundations
 
+<details>
+<summary>Click to view</summary>
+
 | Block                         | Date  |              Lecture               |                                                                Slides                                                                |                               Demo                                |                             Solution                              |
 | ----------------------------- | :---: | :--------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------: |
 | 01: Orientation               | 9/10  | [📺](https://youtu.be/jYUljk-SWt0) |                                                                  -                                                                   |                                 -                                 |                                 -                                 |
@@ -60,15 +63,18 @@ These are important links that you'll need throughout the course:
 | 11: Working in a Dev Team     | 10/15 |                 -                  |    [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-11-working-in-a-development-team?module_item_id=353927)    |                                 -                                 |                                 -                                 |
 | 12: CS Pt. 2 + Unit 1 Wrap Up | 10/17 | [📺](https://youtu.be/0TZy9mkFdPY) |                 [:teacher:](https://fullstack.instructure.com/courses/1122/assignments/59785?module_item_id=353933)                  | [💻](https://github.com/lizhopp/my-personal-website/tree/partTwo) |           [👾](./block12/workshop-solution/index.html)            |
 
+</details>
+
 ## 🌿 Unit 2: Frontend Development
 
-| Block                          | Date  |              Lecture               |                                                                 Slides                                                                 |              Demo              |                  Solution                  |
-| ------------------------------ | :---: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------: | :----------------------------------------: |
-| 13: Conditionals & Comparisons | 10/22 | [📺](https://youtu.be/uG_oWMgDNI0) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-13-statements-conditionals-and-functions?module_item_id=353938) |               -                | [👾](./block13/workshop-solution/index.js) |
-| 14: Arrays & Loops             | 10/24 | [📺](https://youtu.be/fzjfYlvfYUw) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-14-loops-and-arrays?module_item_id=353946)            | [💻](./block14/demo/script.js) | [👾](./block14/workshop-solution/index.js) |
-| 14: Arrays & Loops Cont.       | 10/29 | [📺](https://youtu.be/BSzVT8l2KV4) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-14-loops-and-arrays?module_item_id=353946)            |               -                |                     -                      |
-| 15: Objects and Methods       | 11/05 | [📺](https://youtu.be/8WQDRwz0bXs) |           [:teacher:](https://fullstack.instructure.com/courses/1122/modules/items/353952)            |               -                | [👾](./block15/workshop-solution/index.js)   |
-| 16: Array Methods       | 11/07 | [📺](https://youtu.be/KMBfLZzVNog) |           [:teacher:](https://fullstack.instructure.com/courses/1122/modules/items/353959)            |               -                |                     -                      |
+| Block                          | Date  |              Lecture               |                                                                 Slides                                                                 |                Demo                 |                         Solution                          |
+| ------------------------------ | :---: | :--------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: | :-------------------------------------------------------: |
+| 13: Conditionals & Comparisons | 10/22 | [📺](https://youtu.be/uG_oWMgDNI0) | [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-13-statements-conditionals-and-functions?module_item_id=353938) |                  -                  | [👾 Temp Converter](./block13/workshop-solution/index.js) |
+| 14: Arrays & Loops             | 10/24 | [📺](https://youtu.be/fzjfYlvfYUw) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-14-loops-and-arrays?module_item_id=353946)            |   [💻](./block14/demo/script.js)    |     [👾 Stats](./block14/workshop-solution/index.js)      |
+| 14: Arrays & Loops Cont.       | 10/29 | [📺](https://youtu.be/BSzVT8l2KV4) |           [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-14-loops-and-arrays?module_item_id=353946)            |                  -                  |                             -                             |
+| 15: Objects and Methods        | 11/05 | [📺](https://youtu.be/8WQDRwz0bXs) |                            [:teacher:](https://fullstack.instructure.com/courses/1122/modules/items/353952)                            |                  -                  |  [👾 Froyo Orders](./block15/workshop-solution/index.js)  |
+| 16: Array Methods              | 11/07 | [📺](https://youtu.be/KMBfLZzVNog) |                            [:teacher:](https://fullstack.instructure.com/courses/1122/modules/items/353959)                            | [💻](./warm-ups/block16/block16.js) |  [👾 Grocery List](./block16/workshop-solution/index.js)  |
+
 ## 📚 Extra Resources
 
 <details open>
@@ -81,6 +87,13 @@ These are important links that you'll need throughout the course:
 - _Cheatsheets_
   - ⭐ [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
   - [JS Array Cheatsheet](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42)
+- _Event Loop_
+  - [⭐ 📺 What the heck is the event loop anyway? Philip Roberts @ JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- _Destructuring_
+  - [MDN: Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+  - [📺 Fireship: JS Destructuring in 100 Seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY)
+  - [How to Use Object Destructuring in JS](https://dmitripavlutin.com/javascript-object-destructuring/)
+  - [Destructuring Assignment: Objects & Arrays](https://javascript.info/destructuring-assignment)
 
 </details>
 
