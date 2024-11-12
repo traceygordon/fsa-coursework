@@ -6,10 +6,7 @@
  * @returns {number} temperature in °C
  */
 function convertToCelsius(f) {
-  // Find formula to convert F -> C
-  // Convert input string into a number, then calculate the conversion & round
-  const celcius = Math.round(parseInt(f) - 32 * (5 / 9));
-  return celcius;
+  return Math.round((f - 32) * (5 / 9));
 }
 
 /**
@@ -26,22 +23,20 @@ function convertToCelsius(f) {
  * the given Fahrenheit temperature `f`
  */
 function describeTemperature(f) {
-  // Initialize variable
-  let description;
+  let message = ' ';
 
-  // Chain of if/else if statements to get feels from F temp
   if (f < 32) {
-    description = 'very cold';
+    message = 'very cold';
   } else if (f < 64) {
-    description = 'cold';
+    message = 'cold';
   } else if (f < 86) {
-    description = 'warm';
-  } else {
-    description = 'hot';
+    message = 'warm';
+  } else if (f < 100) {
+    message = 'hot';
+  } else if (f >= 100) {
+    message = 'very hot';
   }
-
-  // Return the description
-  return description;
+  return message;
 }
 
 /**
@@ -49,8 +44,7 @@ function describeTemperature(f) {
  * @returns {number} a random integer in the range [0, `limit`)
  */
 function getRandomInt(limit) {
-  // Add 1 to limit if we want to include limit
-  return Math.floor(Math.random() * (limit + 1));
+  return Math.round(Math.random(f) * limit);
 }
 
 // -------------------- DO NOT CHANGE THE CODE BELOW ---------------------- //
@@ -59,11 +53,13 @@ function getRandomInt(limit) {
  * then alerts the user with a descriptive message.
  * @param {number} f temperature in °F
  */
+
 function parseFahrenheit(f) {
   const c = convertToCelsius(f);
   const description = describeTemperature(f);
   const message = `${f}°F is ${c}°C. That is ${description}.`;
   alert(message);
+  console.log(`That is ${message}!`);
 }
 
 const fahrenheitPrompt =
