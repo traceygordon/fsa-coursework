@@ -1,0 +1,34 @@
+A function called "multiplication" that returns the product of the two input numbers.
+1. Expect: the product is a number
+    Test: by inputting 2 numbers and making sure the output is a number
+2. Expect: only 2 numbers are input
+    Test: by creating an error message if only one number was input
+3. Expect: the 2 numbers are multiplied
+    Test: by using multiply operator
+4. Expect: that the 2 inputs are numbers and not strings
+
+A function called "concatOdds" takes two arrays of integers as arguments. 
+It should return a single array that only contains the odd numbers, in ascending order, from both of the arrays.
+1. Expect: Return contains odd integers only
+    Test: Remainder of return must == %1
+2. Arrays contain only integers
+    Test: Error message for non-integer input
+3. Expect: return to be a single array
+    Test: Return one array
+4. Expect: Return array is presented in ascending order
+    Test: If int < previous int => .shift, if int > previous int => .push
+
+A shopping cart checkout feature that allows a user to check out as a guest (without an account), or as a logged-in user. 
+They should be allowed to do either, but should be asked if they want to create an account or log in if they check out as a guest.
+Think about the following; you may need to make assumptions or decisions about the prompt and how the feature should behave:
+
+What should happen if the cart is empty?
+Expect: The user cannot checkout   
+    Test: prompt: "You must add at least one item to your cart to check out."
+
+What needs to be shown to the user at each step of check out?
+Expect: User is able to see Their whole cart + total, a page in which they can opt for delivery (add address) or pick-up with time windows, and a billing page
+    Test: Three separate pages should be create and the user cannot move forward until completing the necessary fields 
+
+What behaviors of this feature does the prompt miss or gloss over?
+Expect: a sign-in page with the following options: check out as guest, log in, create account 
