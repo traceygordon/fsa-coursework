@@ -16,3 +16,23 @@ Without making any changes to the html, write JavaScript that:
 4) Adds a new <p> element inside the <div> with the text: "This is a new paragraph inside the box!". */
 
 //Your Code below
+
+
+// Change the text content of the heading
+const heading = document.getElementById('mainHeading');
+heading.textContent = 'DOM Manipulation is Fun!';
+
+// Change the text content of the paragraph
+const description = document.getElementById('description');
+description.textContent = 'Look at how we changed the elements!';
+
+// Select the box and modify its styles
+const colorBox = document.getElementById('colorBox');
+colorBox.style.backgroundColor = 'lightblue'; // Change the background color
+colorBox.style.width = '200px'; // Increase the width
+colorBox.style.height = '200px'; // Increase the height
+
+// Add a new paragraph inside the box
+const newParagraph = document.createElement('p');
+newParagraph.textContent = 'This is a new paragraph inside the box!';
+colorBox.appendChild(newParagraph);
