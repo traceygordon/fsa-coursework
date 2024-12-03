@@ -77,6 +77,7 @@ These are important links that you'll need throughout the course:
 | 17: Classes and Context        | 11/12 | [📺](https://youtu.be/1pcypIwdItc) |          [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-17-classes-and-context?module_item_id=353966)          |         [💻](./block17/guided_practice/)          |     [👾 Numbers](./block17/workshop_solution/index.js)      |
 | 18: Testing                    | 11/14 | [📺](https://youtu.be/sZQntN-_mr4) |                [:teacher:](https://fullstack.instructure.com/courses/1122/pages/block-18-testing?module_item_id=353973)                |     [💻](./block18/guided-practice/script.js)     |   [👾 Test Specs](./block18/workshop_solution/readme.md)    |
 | 19: DOM Document Object Model  | 11/19 | [📺](https://youtu.be/1Ju49nhTvlQ) |          [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-19-dom-document-object-model?module_item_id=353981)           | [💻](./block19/guided-practice-solution/index.js) | [👾 Freelancer Forum](./block19/workshop-solution/index.js) |
+| 20: Events                     | 11/26 |               [📺]()               |                    [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-20-events?module_item_id=353987)                    |     [💻](./block20/guided-practice/index.js)      |  [👾 Odds & Events](./block20/workshop-solution/index.js)   |
 
 ## 📚 Extra Resources
 
@@ -97,6 +98,12 @@ These are important links that you'll need throughout the course:
   - [📺 Fireship: JS Destructuring in 100 Seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY)
   - [How to Use Object Destructuring in JS](https://dmitripavlutin.com/javascript-object-destructuring/)
   - [Destructuring Assignment: Objects & Arrays](https://javascript.info/destructuring-assignment)
+- ▶️ _Jess Recommended YouTube Tutorial Playlists_
+  - [JavaScript for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+  - [Object Oriented JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7)
+  - [JavaScript Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax)
+  - [JavaScript DOM](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
+  - [Asynchronous JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jAhrjtZ9U93UMIhnCc44MH)
 
 </details>
 
