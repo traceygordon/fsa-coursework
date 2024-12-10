@@ -79,6 +79,7 @@ These are important links that you'll need throughout the course:
 | 19: DOM Document Object Model  | 11/19 | [📺](https://youtu.be/1Ju49nhTvlQ) |          [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-19-dom-document-object-model?module_item_id=353981)           |  [💻](./block19/guided-practice-solution/index.js)   | [👾 Freelancer Forum](./block19/workshop-solution/index.js) |
 | 20: Events                     | 11/26 | [📺](https://youtu.be/izULeVJhDxA) |                    [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-20-events?module_item_id=353987)                    |       [💻](./block20/guided-practice/index.js)       |  [👾 Odds & Events](./block20/workshop-solution/index.js)   |
 | 21: Async Await                | 12/3  | [📺](https://youtu.be/q-71tGzPbLQ) |                 [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-21-async-await?module_item_id=354003)                  | [💻](https://github.com/lizhopp/Unit2.Music.Starter) |  [👾 Party Planner](./block21/workshop-solution/index.js)   |
+| 22: SPA Review                 | 12/5  | [📺](https://youtu.be/UY1XjqayPJQ) |                  [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-22-spa-review?module_item_id=354008)                  |                          -                           |                              -                              |
 
 ## 📚 Extra Resources
 
