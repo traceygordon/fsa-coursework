@@ -16,8 +16,8 @@ async function getFact(){
 
 }
 
-//Fetches a random fact from the /fact endpoint
-// and updates the fact object in state
+//Fetches breeds from the /breeds endpoint
+// and updates the breeds array in state
 //then re-renders the UI
 async function getBreeds(){
 
