@@ -89,12 +89,28 @@ These are important links that you'll need throughout the course:
 
 ## 🪴 Unit 3: State Management
 
-| Block               | Date  | Lecture |                                                  Slides                                                   | Demo |    Solution     |
-| ------------------- | :---: | :-----: | :-------------------------------------------------------------------------------------------------------: | :--: | :-------------: |
-| 24: Intro to React  | 12/12 |    -    | [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-24-intro-to-react?module_item_id=354026)  |  -   |  👾 Puppy Pals  |
-| 25: Props and State | 12/17 |    -    | [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-25-props-and-state?module_item_id=354033) |  -   | 👾 Color Picker |
+| Block               | Date  |              Lecture               |                                                  Slides                                                   | Demo |    Solution     |
+| ------------------- | :---: | :--------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--: | :-------------: |
+| 24: Intro to React  | 12/17 | [📺](https://youtu.be/xK9_t5tlsdQ) | [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-24-intro-to-react?module_item_id=354026)  |  -   |  👾 Puppy Pals  |
+| 25: Props and State | 12/18 | [📺](https://youtu.be/NmU39TypgBs) | [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-25-props-and-state?module_item_id=354033) |  -   | 👾 Color Picker |
 
 ## 📚 Extra Resources
+
+<details open>
+<summary><strong>React</strong></summary>
+
+- [What is JSX?](https://react.dev/learn/writing-markup-with-jsx)
+- [JavaScript in JSX](https://react.dev/learn/javascript-in-jsx-with-curly-braces)
+- [What are hooks?](https://legacy.reactjs.org/docs/hooks-intro.html)
+- [⭐ Built-in React Hooks](https://react.dev/reference/react/hooks)
+- [⭐ React Best Practices in 2023](https://dev.to/sathishskdev/part-1-naming-conventions-the-foundation-of-clean-code-51ng)
+- [Passing Props to a Component](https://react.dev/learn/passing-props-to-a-component)
+- [Common Components & Props](https://react.dev/reference/react-dom/components/common)
+- [⭐ Conditional Rendering](https://react.dev/learn/conditional-rendering)
+- [⭐ Forms](https://react.dev/reference/react-dom/components/form)
+- [Vite: Getting Started](https://vitejs.dev/guide/)
+
+</details>
 
 <details open>
 <summary><strong>JS</strong></summary>
@@ -230,5 +246,51 @@ Will result in a basic HTML doc:
   </body>
 </html>
 ```
+
+</details>
+
+<details>
+<summary>Create a React App w/ Vite</summary>
+<br>
+
+_[Vite Docs: Getting Started](https://vitejs.dev/guide/)_
+
+1. In your terminal, create a new React applicaiton with Vite:
+
+```js
+npm create vite@latest
+```
+
+2. Follow the prompts to install the package. Choose `React` with `Javascript`
+
+3. `cd` into the directory, then `npm install`, and `code .` to open project in VSCode
+
+4. `npm run dev` to run the app locally. Open the provided URL with port in browser.
+
+5. Navigate to your `App.jsx` and delete the starter code. Delete any unused import statements.
+
+</details>
+
+<details>
+<summary>Deploying Front-End Application w/ Netlify</summary>
+<br>
+
+_Full guide [here](https://fullstack.instructure.com/courses/1122/pages/front-end-deployment-guide?module_item_id=353799). Sign up on Netlify or sign in if you already have an account._
+
+1. Examine your `package.json` file, and find the `build` script. That script will build your application for production.
+
+2. In your terminal, run: `npm run build`
+
+3. Note that with Vite, the preceding command builds your application and places it in a `dist` directory in the root of your project.
+
+**Note:** You might notice that the directory is unavailable (grayed out). That is because it automatically gets added to the `.gitignore` file.
+
+4. On your computer, find the `dist` directory. (Often, you can right-click, and then on macOS, select "Reveal in Finder" or on Windows, select "Reveal in Explorer.")
+
+5. Return to your Netlify dashboard, and then select "New Project" > "Deploy Manually"
+
+6. Drag your `dist` folder onto the page. Your project is deployed.
+
+**Note:** Make a note of the URL of your deployed site if you need to submit it later for an assignment.
 
 </details>
