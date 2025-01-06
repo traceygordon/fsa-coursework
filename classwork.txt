@@ -1,0 +1,21 @@
+goals: 
+- write code without needed help
+- what functions to use when
+- catch up on workshops
+- start journal
+- time management 
+- set up appt with Career Advisor
+- complete workshops by Saturday before the break
+- stop running from CSS
+
+blockers:
+- work
+- overwhelmed with the amount of work 
+- coding everyday (15 min per day)
+- transitioning from student to employee mentality
+- overwhelm paralysis
+
+
+What do we already know about how JS is rendered in HTML?
+- JS will load first unless defer is added to script or script it as the bottom of the body in HTML
+- Prompts can be used for user input 
