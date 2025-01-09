@@ -43,6 +43,20 @@ These are important links that you'll need throughout the course:
 
 </details>
 
+---
+
+### :bangbang: A note on sample solutions...
+
+_Sample workshop solutions are a valuable learning resource to provide insight into problem-solving techniques and different technical approaches. They are available to deepen your knowledge and understanding of concepts._
+
+:warning: **Please refrain from using these solutions for workshop submissions as they undermine the learning process and do not reflect your unique understanding and capabilities. _Doing so is a violation of Grace Hopper's academic honesty policy._**
+
+_Instead, leverage these by attempting the workshop independently, comparing your work with the sample solution, understanding the differences, and refactoring your code if needed._
+
+_We'd rather see **your** work and engagement with the material! With this insight into your progress and coding style, your ITMs can give more tailored feedback for your growth!_
+
+---
+
 ## 🌱 Unit 1: Frontend Foundations
 
 <details>
@@ -89,11 +103,11 @@ These are important links that you'll need throughout the course:
 
 ## 🪴 Unit 3: State Management
 
-| Block                         | Date  |              Lecture               |                                                        Slides                                                         | Demo |    Solution     |
-| ----------------------------- | :---: | :--------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :--: | :-------------: |
-| 24: Intro to React            | 12/17 | [📺](https://youtu.be/xK9_t5tlsdQ) |       [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-24-intro-to-react?module_item_id=354026)        |  -   |  👾 Puppy Pals  |
-| 25: Props and State           | 12/19 | [📺](https://youtu.be/NmU39TypgBs) |       [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-25-props-and-state?module_item_id=354033)       |  -   | 👾 Color Picker |
-| 26: Fetching Data & useEffect |  1/2  | [📺](https://youtu.be/JssoIlqbqLI) | [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-26-fetching-data-and-useeffect?module_item_id=354040) |  -   | 👾 Contact List |
+| Block                         | Date  |              Lecture               |                                                        Slides                                                         | Demo |                          Solution                          |
+| ----------------------------- | :---: | :--------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :--: | :--------------------------------------------------------: |
+| 24: Intro to React            | 12/17 | [📺](https://youtu.be/xK9_t5tlsdQ) |       [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-24-intro-to-react?module_item_id=354026)        |  -   |  [👾 Puppy Pals](./block24/workshop-solution/src/App.jsx)  |
+| 25: Props and State           | 12/19 | [📺](https://youtu.be/NmU39TypgBs) |       [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-25-props-and-state?module_item_id=354033)       |  -   | [👾 Color Picker](./block25/workshop-solution/src/App.jsx) |
+| 26: Fetching Data & useEffect |  1/2  | [📺](https://youtu.be/JssoIlqbqLI) | [🧑‍🏫](https://fullstack.instructure.com/courses/1122/pages/block-26-fetching-data-and-useeffect?module_item_id=354040) |  -   | [👾 Contact List](./block26/workshop-solution/src/App.jsx) |
 
 ## 📚 Extra Resources
 
